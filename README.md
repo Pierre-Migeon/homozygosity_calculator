@@ -5,3 +5,4 @@ A script that I wrote to calculate the percentage of homozygous SNPs from a 23an
 #Usage: perl homozygosity_percent.pl snps.txt
 
 Not tested extensively, but should be fully functional and accurate.
+
