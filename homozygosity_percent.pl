@@ -22,4 +22,4 @@ while(<IN>)
 	}
 }
 
-print "Of " . $total . " SNPs in the data, " . ($equal / $total) * 100 . "% were homozygous.\n"
+print "################################################################\n" . " Of " . $total . " SNPs in the data, " . ($equal / $total) * 100 . "% were homozygous.\n" . "################################################################\n";
